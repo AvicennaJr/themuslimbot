@@ -1,0 +1,6 @@
+config.ini
+my_bot.session
+my_bot.session-journal
+nohup.out
+venv/
+__pycache__/
