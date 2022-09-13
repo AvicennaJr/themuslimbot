@@ -118,7 +118,7 @@ Contributions, issues and feature requests are welcome! Just open an issue or ma
 
 # Thanks
 
-This bot has been heavily inspired by the [Discord Islam Bot](https://github.com/galacticwarrior9/IslamBot) and my attemp.
+This bot has been heavily inspired by the [Discord Islam Bot](https://github.com/galacticwarrior9/IslamBot).
 
 # Support
 
