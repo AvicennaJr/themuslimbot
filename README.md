@@ -28,7 +28,7 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
  
  ##Use `/hijri` to display Today's Islamic date.
  
-# Supportted Translations
+## Supported Translations
 
   List of available translations 🌍:
 
@@ -62,7 +62,7 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
     - Urdu  🇵🇰
     - Uyghur  🇨🇳
 
-# Available Reciters
+## Available Reciters
 
   List of available reciters 🎙️:
                        
@@ -92,7 +92,7 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
     - Chinese - Chinese
     - Youssouf Leclerc - French
  
-# Available Hadith Books
+## Available Hadith Books
 
   List of available books of hadith:
 
