@@ -4,9 +4,9 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
 
 # Features
 
- - Get the translation of a Quranic verse in various [languages](#Supported Translations)
- - Get a recitation of a Quranic verse from different [reciters](#Available Reciters)
- - Get any Hadith from [seven different books](#Available Hadith Books)
+ - Get the translation of a Quranic verse in various [languages](#supported-translations)
+ - Get a recitation of a Quranic verse from different [reciters](#available-reciters)
+ - Get any Hadith from [seven different books](#available-hadith-books)
  - Get an image of the page on which a verse would be on a standard Medina Mushaf
  - Get an image of a specified Ayah
  - Get Salah times for any town, city or country around the world
@@ -14,7 +14,7 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
 
 # How To Use
 
- ##To get a translation of a specific ayah use `/quran [surah]:[verse] [language]`. For example: `/quran 112:1 english`. Click [here](#Supported Translations) for a list of Supported Translations.
+ ## To get a translation of a specific ayah use `/quran [surah]:[verse] [language]`. For example: `/quran 112:1 english`. Click [here](#Supported Translations) for a list of Supported Translations.
  
  ##To get a recitation of a Quranic verse use `/audio [surah]:[verse] [reciter]`. For example: `/audio 112:1 alafasy`. Click [here](#Available Reciters) to get a list of available reciters.
  
@@ -28,7 +28,7 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
  
  ##Use `/hijri` to display Today's Islamic date.
  
-## Supported Translations
+# Supported Translations
 
   List of available translations 🌍:
 
@@ -62,7 +62,7 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
     - Urdu  🇵🇰
     - Uyghur  🇨🇳
 
-## Available Reciters
+# Available Reciters
 
   List of available reciters 🎙️:
                        
@@ -92,7 +92,7 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
     - Chinese - Chinese
     - Youssouf Leclerc - French
  
-## Available Hadith Books
+# Available Hadith Books
 
   List of available books of hadith:
 
