@@ -14,11 +14,11 @@ A Telegram bot built for Muslims. Use it at [The Muslim Bot](http://t.me/themusl
 
 # How To Use
 
- - To get a translation of a specific ayah use `/quran [surah]:[verse] [language]`. For example: `/quran 112:1 english`. Click [here](#Supported Translations) for a list of Supported Translations.
+ - To get a translation of a specific ayah use `/quran [surah]:[verse] [language]`. For example: `/quran 112:1 english`. Click [here](#supported-translations) for a list of Supported Translations.
  
- - To get a recitation of a Quranic verse use `/audio [surah]:[verse] [reciter]`. For example: `/audio 112:1 alafasy`. Click [here](#Available Reciters) to get a list of available reciters.
+ - To get a recitation of a Quranic verse use `/audio [surah]:[verse] [reciter]`. For example: `/audio 112:1 alafasy`. Click [here](#available-reciters) to get a list of available reciters.
  
- - To get a Hadith use `/hadith [book name] [hadith number]`. Example: `/hadith bukhari 30`. Click [here](#Available Hadith Books) to get a list of available hadith books.
+ - To get a Hadith use `/hadith [book name] [hadith number]`. Example: `/hadith bukhari 30`. Click [here](#available-hadith-books) to get a list of available hadith books.
  
  - To get a full Quran page on where a verse is located use `/mushaf [surah]:[verse]`. Example: `/mushaf 112:1`.
  
