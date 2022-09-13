@@ -111,3 +111,19 @@ List of available reciters 🎙️:
    - bulugh: ✨ Bulugh al-Maram ✨
 
    - hisn: ✨ Fortress of the Muslim (Hisn al-Muslim) ✨
+ 
+# Contributing
+
+Contributions, issues and feature requests are welcome! Just open an issue or make a pull request.
+
+# Thanks
+
+This bot has been heavily inspired by the [Discord Islam Bot](https://github.com/galacticwarrior9/IslamBot) and my attemp.
+
+# Support
+
+Give a ⭐️ if this project helped you!
+
+# License
+
+No Copyright 🄯
